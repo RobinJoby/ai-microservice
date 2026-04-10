@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if you use them locally)
+venv/
+env/
+.venv/
+
+# Environment variables / Secrets (CRITICAL)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
